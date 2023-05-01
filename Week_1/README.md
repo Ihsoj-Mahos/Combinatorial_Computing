@@ -5,6 +5,6 @@ In this week, we shall be focusing upon Computer Representation of Mathematical 
 ## Reading 
 
 1. Chapter 1, 2 of [Elements of Combinatorial Computing by Wells](../Elements_of_Combinatorial_Computing.pdf) (optional, as this describes the definitions of terms we use in everyday programming. Not really necessary, but you can check it out if interested)
-2. Chapter 3 of [Elements of Combinatorial Computing by Wells](../Elements_of_Combinatorial_Computing.pdf).
+2. Chapter 3 of [Elements of Combinatorial Computing by Wells](../Elements_of_Combinatorial_Computing.pdf). (this is really what we are interested in :))
 
 Further reading and assignments will be updated soon.
