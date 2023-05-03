@@ -30,10 +30,10 @@ For this part, please submit a file named `ferrer_part_a.cpp` or `ferrer_part_a.
 #### Enumerating number of partitions (with a twist)
 
 In this part, we use computing in order to verify an important result about partitions. Let's introduce some notation.
-Let `Q(n,k)` denote the number of partitions in which the largest number is `k`. For n = 5, k = 3 these are 3+2,3+1+1,2+2+1,1+1+1+1+1, so Q(5,3) = 5. 
+Let `Q(n,k)` denote the number of partitions in which the largest number is atmost `k`. For `n = 5, k = 3` these are `3+2, 3+1+1, 2+2+1, 2+1+1+1, 1+1+1+1+1` so Q(5,3) = 5. 
 
 Let `R(n,k)` denote the number of partitions where the number of numbers is atmost `k`.
-For n = 5, k = 3 it is 5,4+1,3+2,3+1+1,2+2+1, so R(5,3) = 5.
+For `n = 5, k = 3` it is `5, 4+1, 3+2, 3+1+1, 2+2+1` so `R(5,3) = 5`.
 Given inputs `n, k`, return `Q(n, k) R(n, k)`. Input will be two space separated integers, i.e., 
 
 ```
@@ -43,8 +43,8 @@ Output : 5 5
 
 For this part, please submit a file named `ferrer_part_b.cpp` or `ferrer_part_b.c`.
 
-Now, for n = 5, k = 3 we got Q(n, k) = R(n, k). Do you think this was a coincidence? Try running your code for multiple values of n and k to check whether it is. Well, you might have guessed at this point that it isn't :) 
+Now, for `n = 5, k = 3` we got `Q(n, k) = R(n, k)`. Do you think this was a coincidence? Try running your code for multiple values of `n` and `k` to check whether it is. Well, you might have guessed at this point that it isn't :) 
 
-So here's the next part of the question. Prove that Q(n, k) = R(n, k) for all values of n and k. (Submit this part as `proof_ferrer.pdf`) 
+So here's the next part of the question. Prove that `Q(n, k) = R(n, k)` for all values of `n` and `k`. (Submit this part as `proof_ferrer.pdf`) 
 
 
