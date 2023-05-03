@@ -15,7 +15,7 @@ Further reading and assignments will be updated soon.
 
 #### Making a ferrer diagram
 
-In this question, we will explore the concept of Ferrer's diagrams (given in section 3.3.4 of [Elements of Combinatorial Computing](../Elements_of_Combinatorial_Computing.pdf). These diagrams are extremely useful to show the partitions of a number. Here, you have to write `C++` code which takes in a partition of the form (a, b, c, ...) and prints the corresponding ferrer diagram in the terminal. 
+In this question, we will explore the concept of Ferrer's diagrams (given in section 3.3.4 of [Elements of Combinatorial Computing])(../Elements_of_Combinatorial_Computing.pdf). These diagrams are extremely useful to show the partitions of a number. Here, you have to write `C++` code which takes in a partition of the form (a, b, c, ...) and prints the corresponding ferrer diagram in the terminal. 
 
 For example, for `7 = 3 + 2 + 1 + 1`, i.e. (3, 2, 1, 1), the ferrer diagram is given by 
 ```
