@@ -9,6 +9,10 @@ In this week, we shall be focusing upon Computer Representation of Mathematical 
 
 Further reading and assignments will be updated soon.
 
+## Helpful Links
+
+Markdown (README) file syntax : https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 ## Assignment Problems
 
 ### 1. Fun with Ferrer
