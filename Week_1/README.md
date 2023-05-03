@@ -30,7 +30,7 @@ For this part, please submit a file named `ferrer_part_a.cpp` or `ferrer_part_a.
 #### Enumerating number of partitions (with a twist)
 
 In this part, we use computing in order to verify an important result about partitions. Let's introduce some notation.
-Let `Q(n,k)` denote the number of partitions in which the largest number is atmost `k`. For `n = 5, k = 3` these are `3+2, 3+1+1, 2+2+1, 2+1+1+1, 1+1+1+1+1` so Q(5,3) = 5. 
+Let `Q(n,k)` denote the number of partitions in which the largest number is atmost `k`. For `n = 5, k = 3` these are `3+2, 3+1+1, 2+2+1, 2+1+1+1, 1+1+1+1+1` so `Q(5,3) = 5`. 
 
 Let `R(n,k)` denote the number of partitions where the number of numbers is atmost `k`.
 For `n = 5, k = 3` it is `5, 4+1, 3+2, 3+1+1, 2+2+1` so `R(5,3) = 5`.
