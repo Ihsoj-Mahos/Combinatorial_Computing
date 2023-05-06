@@ -51,4 +51,13 @@ Now, for `n = 5, k = 3` we got `Q(n, k) = R(n, k)`. Do you think this was a coin
 
 So here's the next part of the question. Prove that `Q(n, k) = R(n, k)` for all values of `n` and `k`. (Submit this part as `proof_ferrer.pdf`) 
 
+### 2. Does this ring a bell?
 
+Given the set {1,2,3 ... N}, a partition of the set is a sequence of non-empty disjoint subsets P<sub>1</sub>, P<sub>2</sub>, P<sub>3</sub> ... P<sub>k</sub>, such that min(P<sub>i</sub>) < min(P<sub>j</sub>) for all i<j. Given two such partitions P<sub>1</sub>, P<sub>2</sub>, P<sub>3</sub> ... P<sub>m</sub> and Q<sub>1</sub>, Q<sub>2</sub>, Q<sub>3</sub> ... Q<sub>n</sub>, we say P < Q, if any of the following conditions are true:
+
+
+1) |P<sub>1</sub>| < |Q<sub>1</sub>|
+2) |P<sub>1</sub>| = |Q<sub>1</sub>|, and there exists an index i, such that the i<sup>th</sup> smallest element of |P<sub>1</sub>| < i<sup>th</sup> smallest element of |Q<sub>1</sub>|, and the first i-1 smallest elements of P<sub>1</sub> and Q<sub>1</sub> are exactly the same.
+3) P<sub>1</sub> = Q<sub>1</sub> , but the partition of the set S - P<sub>1</sub> formed by P<sub>2</sub>, P<sub>3</sub> ... P<sub>m</sub> is less than the partition formed by Q<sub>2</sub>, Q<sub>3</sub> ... Q<sub>n</sub>.
+
+Consider all possible partitions of the set {1,2,3, ... N}, and given a number k, determine the k<sup>th</sup> smallest partition of the set.
