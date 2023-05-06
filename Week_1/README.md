@@ -61,3 +61,8 @@ Given the set {1,2,3 ... N}, a partition of the set is a sequence of non-empty d
 3) P<sub>1</sub> = Q<sub>1</sub> , but the partition of the set S - P<sub>1</sub> formed by P<sub>2</sub>, P<sub>3</sub> ... P<sub>m</sub> is less than the partition formed by Q<sub>2</sub>, Q<sub>3</sub> ... Q<sub>n</sub>.
 
 Consider all possible partitions of the set {1,2,3, ... N}, and given a number k, determine the k<sup>th</sup> smallest partition of the set.
+
+```
+Input : N k (space separated integers)
+Output : k<sup>th</sup> partition as space separated integers in increasing order
+```
