@@ -64,5 +64,5 @@ Consider all possible partitions of the set {1,2,3, ... N}, and given a number k
 
 ```
 Input : N k (space separated integers)
-Output : k<sup>th</sup> partition as space separated integers in increasing order
+Output : k-th partition as space separated integers in increasing order
 ```
