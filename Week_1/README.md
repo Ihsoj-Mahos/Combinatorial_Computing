@@ -53,7 +53,7 @@ So here's the next part of the question. Prove that `Q(n, k) = R(n, k)` for all 
 
 ### 2. Does this ring a bell?
 
-Given the set {1,2,3 ... N}, a partition of the set is a sequence of non-empty disjoint subsets P<sub>1</sub>, P<sub>2</sub>, P<sub>3</sub> ... P<sub>k</sub>, such that min(P<sub>i</sub>) < min(P<sub>j</sub>) for all i<j. Given two such partitions P<sub>1</sub>, P<sub>2</sub>, P<sub>3</sub> ... P<sub>m</sub> and Q<sub>1</sub>, Q<sub>2</sub>, Q<sub>3</sub> ... Q<sub>n</sub>, we say P < Q, if any of the following conditions are true:
+Given the set $S = \{1,2,3 ... N\}$, a partition of the set is a sequence of non-empty disjoint subsets $P_1, P_2, P_3 ... P_k$, such that $\displaystyle\bigcup_{i=1}^k P_i = S$, AND $\min(P_i) < \min(P_j)$ for all $i < j$. Given two such partitions P<sub>1</sub>, P<sub>2</sub>, P<sub>3</sub> ... P<sub>m</sub> and Q<sub>1</sub>, Q<sub>2</sub>, Q<sub>3</sub> ... Q<sub>n</sub>, we say P < Q, if any of the following conditions are true:
 
 
 1) |P<sub>1</sub>| < |Q<sub>1</sub>|
@@ -64,5 +64,5 @@ Consider all possible partitions of the set {1,2,3, ... N}, and given a number k
 
 ```
 Input : N k (space separated integers)
-Output : k-th partition as space separated integers in increasing order
+Output : m lines, where m is the number of sets in the partition. Line i is P_i (space separated, ascending order)
 ```
