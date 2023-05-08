@@ -1,6 +1,6 @@
 # Combinatorial Computing
 
-This is the repository for the project *Combinatorial Computing*. The reference book we will be using for this project can be found [here](Elements_of_Combinatorial_Computing.pdf)
+This is the repository for the project *Combinatorial Computing*. The reference books we will be using for this project can be found [here](Reference_books)
 
 The tentative timeline of this project is : 
 * Week 1 : Computer Representation of Mathematical Objects

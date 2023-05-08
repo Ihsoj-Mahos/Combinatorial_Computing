@@ -4,8 +4,12 @@ In this week, we shall be focusing upon Computer Representation of Mathematical 
 
 ## Reading 
 
-1. Chapter 1, 2 of [Elements of Combinatorial Computing by Wells](../Elements_of_Combinatorial_Computing.pdf) (optional, as this describes the definitions of terms we use in everyday programming. Not really necessary, but you can check it out if interested)
-2. Chapter 3 of [Elements of Combinatorial Computing by Wells](../Elements_of_Combinatorial_Computing.pdf). (this is really what we are interested in :))
+1. Chapter 1, 2 of [Elements of Combinatorial Computing by Wells](../Reference_books/Elements_of_Combinatorial_Computing.pdf) (optional, as this describes the definitions of terms we use in everyday programming. Not really necessary, but you can check it out if interested)
+2. Chapter 3 of [Elements of Combinatorial Computing by Wells](../Reference_books/Elements_of_Combinatorial_Computing.pdf). (this is really what we are interested in :))
+
+#### Group Theory
+
+1. Chapter 1, 2 of [Contemporary Abstract Algebra by Gallian](../Reference_books/Gallian_abstract_algebra.pdf)
 
 Further reading and assignments will be updated soon.
 
@@ -19,7 +23,7 @@ Markdown (README) file syntax : https://docs.github.com/en/get-started/writing-o
 
 #### Making a ferrer diagram
 
-In this question, we will explore the concept of Ferrer's diagrams (given in section 3.3.4 of [Elements of Combinatorial Computing](../Elements_of_Combinatorial_Computing.pdf)). These diagrams are extremely useful to show the partitions of a number. Here, you have to write `C++` code which takes in a partition of the form (a, b, c, ...) and prints the corresponding ferrer diagram in the terminal. 
+In this question, we will explore the concept of Ferrer's diagrams (given in section 3.3.4 of [Elements of Combinatorial Computing](../Reference_books/Elements_of_Combinatorial_Computing.pdf)). These diagrams are extremely useful to show the partitions of a number. Here, you have to write `C++` code which takes in a partition of the form (a, b, c, ...) and prints the corresponding ferrer diagram in the terminal. 
 
 For example, for `7 = 3 + 2 + 1 + 1`, i.e. (3, 2, 1, 1), the ferrer diagram is given by 
 ```
