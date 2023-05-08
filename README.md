@@ -2,6 +2,8 @@
 
 This is the repository for the project *Combinatorial Computing*. The reference books we will be using for this project can be found [here](Reference_books)
 
+Weekly meetings will happen on Sundays 7pm.
+
 The tentative timeline of this project is : 
 * Week 1 : Computer Representation of Mathematical Objects
 * Week 2 : Backtrack Programming, enumeration by exhaustive search
