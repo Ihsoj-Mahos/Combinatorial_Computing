@@ -71,4 +71,10 @@ Input : N k (space separated integers)
 Output : m lines, where m is the number of sets in the partition. Line i is P_i (space separated, ascending order)
 ```
 
-You can verify your solution [here](https://www.hackerrank.com/contests/scicomp-blitz-gc-2022/challenges/breaking-up-sets)
+You can verify your solution [here](https://www.hackerrank.com/contests/scicomp-blitz-gc-2022/challenges/breaking-up-sets). Submit a c++ file named `partition.c` or `partition.cpp`
+
+### 3. XOR Sort 
+
+[Here](https://codedrills.io/contests/icpc-amritapuri-2022-qualifier-round/problems/xor-sort) is an interesting problem based upon efficiently using the xor operation :)
+
+You can test your solution in the link given. Submit a c++ file named `xor_sort.cpp` or `xor_sort.c`
