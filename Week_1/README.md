@@ -70,3 +70,5 @@ Consider all possible partitions of the set {1,2,3, ... N}, and given a number k
 Input : N k (space separated integers)
 Output : m lines, where m is the number of sets in the partition. Line i is P_i (space separated, ascending order)
 ```
+
+You can verify your solution [here](https://www.hackerrank.com/contests/scicomp-blitz-gc-2022/challenges/breaking-up-sets)
