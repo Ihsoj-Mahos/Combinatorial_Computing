@@ -27,4 +27,4 @@ Talking about the time complexity of problems is the bread and butter of compute
 
 ## Problems
 
-1. Here is a very nice [problem](./graph_game_q1.pdf) based on a 2-player game on graphs based upon dynamic programming which was a part of CS218.
+1. Here is a very nice [problem](./graph_game_q1.pdf) based on a 2-player game on graphs based upon dynamic programming which was a part of CS218. The testcases are given [here](./Testcases_q1)
