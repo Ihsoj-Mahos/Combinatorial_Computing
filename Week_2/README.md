@@ -25,6 +25,8 @@ Talking about the time complexity of problems is the bread and butter of compute
 
 1. Chapter 4 of [Elements of Combinatorial Computing by Wells](../Reference_books/Elements_of_Combinatorial_Computing.pdf).
 
+2. More graph searches (BFS, DFS) : See lectures [25](https://www.youtube.com/watch?v=hk5rQs7TQ7E), [26](https://www.youtube.com/watch?v=r1-8p11fSPw), [27](https://www.youtube.com/watch?v=CIm6RzdoPCI), [28](https://www.youtube.com/watch?v=bmyyxNyZKzI) of naveen garg's DSA course on nptel.
+
 ## Problems
 
 1. Here is a very nice [problem](./graph_game_q1.pdf) based on a 2-player game on graphs based upon dynamic programming which was a part of CS218. The testcases are given [here](./Testcases_q1)
