@@ -10,4 +10,13 @@ We will be giving you resources from CS228 (logic in computer science) as well i
 
 1. Lecture slides [1](SAT_encoding_1.pdf), [2](SAT_encoding_2.pdf) covers encoding problems into CNF (the standard form used by SAT Solvers), and covers a few examples related to how the conversion is done.
 
+## Problems
 
+### Sudoku Solver
+
+You might have solved a sudoku using your brain, or a brute force approach before. However, in this problem you have to encode the problem as SAT, and let the SAT Solver do the job. 
+
+```
+Input : Space separated 81 digits in row major form (each set of 9 digits is a line from left to right), 0 indicates the absence of a digit. 
+Output : Give one possible solution (as a set of 81 digits) if possible, print -1 if not.
+```
