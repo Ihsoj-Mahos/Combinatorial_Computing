@@ -12,7 +12,7 @@ We will be giving you resources from CS228 (logic in computer science) as well i
 
 ## Problems
 
-### Sudoku Solver
+### 1. Sudoku Solver
 
 You might have solved a sudoku using your brain, or a brute force approach before. However, in this problem you have to encode the problem as SAT, and let the SAT Solver do the job. 
 
