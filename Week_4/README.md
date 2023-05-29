@@ -9,3 +9,5 @@ In this week, we will cover generation of elementary configurations, partitions,
 1. Posets and lattices are interesting mathematical objects, since they occur quite frequently in computer science and have interesting properties. [This](Posets.pdf) handout covers the basic properties of posets, defines lattices. 
 
 2. Equivalence relations also occur quite frequently in problems, and are also interesting to study. [This](EquivalenceRelations.pdf) handout defines them and gives some examples. [This](https://www.cs.sfu.ca/~ggbaker/zju/math/equiv-rel.html) is another source which relates equivalence relations and partitions.
+
+3. Read chapter 5 from [Elements of Combinatorial Computing](../Reference_books/Elements_of_Combinatorial_Computing.pdf) by Wells.
