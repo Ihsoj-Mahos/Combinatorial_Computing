@@ -20,3 +20,5 @@ You might have solved a sudoku using your brain, or a brute force approach befor
 Input : Space separated 81 digits in row major form (each set of 9 digits is a line from left to right), 0 indicates the absence of a digit. 
 Output : Give one possible solution (as a set of 81 digits) if possible, print -1 if not.
 ```
+
+You are expected to use the z3 SAT Solver in python to solve this question. The file submitted should be ```sudoku_solver.py```
