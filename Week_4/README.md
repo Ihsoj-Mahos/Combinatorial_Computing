@@ -17,3 +17,16 @@ In this week, we will cover generation of elementary configurations, partitions,
 ### Theory
 
 1. [This](equivalence_exercise.pdf) is an exercise sheet based upon equivalence relations, and [this](posets_exercise.pdf) exercise covers posets. They may require other theorems such as induction, recurrences, etc. If any terms feel unfamiliar, feel free to ask. (p.s. the problems were a part of the course "discrete structures" by Prof. Diwan, so don't be surprised if they're challenging :p)
+
+### Coding
+
+#### 1. Bipartite Maching
+
+This is a classic bipartite matching problem which needs to be solved using the algorithmic proof of hall's theorem. You are given $n$ workers and $m$ jobs. Each worker is willing to do some jobs between $1$ and $m$. Also, one job can be done by atmost one worker and each worker can do atmost one job. Can you assign a job to each worker? 
+
+```
+Input : n m
+<n lines with each line containing the number of jobs (k) that a worker is willing to do followed by k space separated integers>
+
+Output : <n lines with each line having two space separated integers which are worker, job if assignment possible, just print -1 if not possible>
+```
