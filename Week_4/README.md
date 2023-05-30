@@ -16,4 +16,4 @@ In this week, we will cover generation of elementary configurations, partitions,
 
 ### Theory
 
-1. [This](equivalence_exercise.pdf) is an exercise sheet based upon equivalence relations, and [this](posets_exercise.pdf) exercise covers posets. They may require other theorems such as induction, recurrences, etc. If any terms feel unfamiliar, feel free to ask.
+1. [This](equivalence_exercise.pdf) is an exercise sheet based upon equivalence relations, and [this](posets_exercise.pdf) exercise covers posets. They may require other theorems such as induction, recurrences, etc. If any terms feel unfamiliar, feel free to ask. (p.s. the problems were a part of the course "discrete structures" by Prof. Diwan, so don't be surprised if they're challenging :p)
