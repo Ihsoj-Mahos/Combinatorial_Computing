@@ -2,6 +2,10 @@
 
 In this week, we shall be focusing upon Generation of elementary configurations. The content to be covered is given below. Though we will eventually focus on the implementation, a lot of math is going to be involved in this SoC. So, it is highly encouraged for you to ask doubts on the whatsapp group :)
 
+## Some interesting stuff
+
+At this point you're probably wondering what [this](../delaunay.png) thing is. This is a type of triangulation called the "delaunay triangulation". Basically, given a set of discrete points, can you triangulate them so that no point lies inside the circumcircles of resulting triangles. This has polynomial time algorithms and the history of this is quite interesting, can be found [here](https://en.wikipedia.org/wiki/Delaunay_triangulation). [This](https://www.sciencedirect.com/science/article/pii/S0010448597000821) is a very good paper about the delaunay triangulation.
+
 ## Reading
 
 In this week, we will cover generation of elementary configurations, partitions, sets, permutations and some random discrete math stuff. 
