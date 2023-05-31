@@ -16,6 +16,8 @@ In this week, we will cover generation of elementary configurations, partitions,
 
 3. Read chapter 5 from [Elements of Combinatorial Computing](../Reference_books/Elements_of_Combinatorial_Computing.pdf) by Wells.
 
+4. Read section 6.3 (partitions) from [Applied Combinatorics](../Reference_books/Applied_Combinatorics_Alan_Tucker.pdf) for a nice application of generating functions.
+
 ## Problems
 
 ### Theory
