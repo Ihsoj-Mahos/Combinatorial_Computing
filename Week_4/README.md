@@ -34,3 +34,18 @@ Input : n m
 
 Output : <n lines with each line having two space separated integers which are worker, job if assignment possible, just print -1 if not possible>
 ```
+
+#### 2. Partitions and binary trees
+
+As illustrated in section 5.5.4 of [Elements of Combinatorial Computing](../Reference_books/Elements_of_Combinatorial_Computing.pdf), there exists a bijection between binary trees and a special class of parititions. This problem is more of a coding exercise, where you need to a partition as input and print the corresponding binary tree. 
+
+```
+Input : n (indicating number of sets in the partitions)
+<n lines with each line having space separated integers>
+
+Output : Print the corresponding labelled binary tree
+```
+
+This might be the first time you are coding trees, or graphs. Hence, some links might be useful in order to execute this.
+1. https://www.geeksforgeeks.org/introduction-to-binary-tree-data-structure-and-algorithm-tutorials/
+2. https://www.cprogramming.com/tutorial/lesson18.html
