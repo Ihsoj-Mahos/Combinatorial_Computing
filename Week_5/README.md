@@ -10,3 +10,4 @@ This section of the project is closely related to design and analysis of algorit
 
 2. Some reading about greedy algorithms and dynamic programming from CS218 [slides](https://www.cse.iitb.ac.in/~rgurjar/CS218_2023/slides/GreedyDPSlides.pdf) by Prof. Rohit Gurjar.
 
+3. Network flow forms the basis of many problems. The basics of that can be found [here](https://www.cse.iitb.ac.in/~rgurjar/CS218_2023/slides/NetworkFlow.pdf) 
