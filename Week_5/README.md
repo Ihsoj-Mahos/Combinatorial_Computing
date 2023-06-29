@@ -8,7 +8,7 @@ This section of the project is closely related to design and analysis of algorit
 
 1. Read chapter 6 from [Elements of Combinatorial Computing](../Reference_books/Elements_of_Combinatorial_Computing.pdf) by Wells.
 
-2. Some reading about greedy algorithms and dynamic programming from CS218 [slides](https://www.cse.iitb.ac.in/~rgurjar/CS218_2023/slides/GreedyDPSlides.pdf) by Prof. Rohit Gurjar.
+2. Some reading about greedy algorithms and dynamic programming from CS218 [slides](https://www.cse.iitb.ac.in/~rgurjar/CS218_2023/slides/GreedyDPSlides.pdf) by Prof. Rohit Gurjar. In order to understand the flavor of these techniques, you can read [this](https://connect2grp.medium.com/dynamic-programming-vs-greedy-approach-c132de5bff44) blog post.
 
 3. Network flow forms the basis of many problems. The basics of that can be found [here](https://www.cse.iitb.ac.in/~rgurjar/CS218_2023/slides/NetworkFlow.pdf) 
 
