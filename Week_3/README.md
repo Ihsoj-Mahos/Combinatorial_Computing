@@ -10,6 +10,8 @@ We will be giving you resources from CS228 (logic in computer science) as well i
 
 1. Lecture slides [1](SAT_encoding_1.pdf), [2](SAT_encoding_2.pdf) covers encoding problems into CNF (the standard form used by SAT Solvers), and covers a few examples related to how the conversion is done.
 
+2. Some of you had a doubt in how to encode problems as SAT. [Here](https://research.ijcaonline.org/encc/number1/encc004.pdf) is a paper that covers how to convert the k-colorability problem to 3-SAT.
+
 ## Problems
 
 ### 1. Sudoku Solver
